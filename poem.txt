@@ -3,5 +3,7 @@ purple
 red
 blue
 green
+pink
 yellow
 white 
+grey
